@@ -82,20 +82,9 @@ A sequence of some steps in random directions on some mathematical space.
 ## Potential Function
 
 - Idea: The ball is a randomly drifting ball that is attracted to the goal by some "force". 
+
 --
 
-- A placed in this vector field ball will move along the arrows of the vector field
-
-<br>
-
-<center>![](https://cdn.kastatic.org/googleusercontent/wBalF7MINVVbEksIOvIBlO6RupAqyg5yY7nkoZ5p3bPTBCGjkrWAyTQtspKaMm9BIWRlMKj089R3R15hBDI5yFY)
-
-<br>
-.footnote[Khan Academy]
-
----
-<!-- Sifan 3-->
-## Potential Function
 - We can try to model this underlying force based on the movements of the ball
 
 --
